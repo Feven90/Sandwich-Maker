@@ -1,0 +1,9 @@
+{
+    "breads": [
+        {
+            "whiteBread": "$1.00",
+            "wheatBread": "$1.00",
+            "rosemaryParmesanBread": "$1.00",
+            "glutenFreeBread": "$1.50"
+        }
+    ]}
